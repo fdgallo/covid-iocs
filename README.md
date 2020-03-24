@@ -9,8 +9,8 @@ Collaborate with us by providing already analized IOCs like:
 - Entity names
 - Social Network entity names or IDs
 - Locations
-- Broadly other type of campains:
+- Broadly other type of campaigns:
   - malware
+  - phising 
   - fraud
   - scam 
-  - phising 
