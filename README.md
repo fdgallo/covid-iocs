@@ -10,7 +10,7 @@ Collaborate with us by providing already analized IOCs like:
 - Social Network entity names or IDs
 - Locations
 - Broadly other type of campaigns:
-  - malware
+  - malware hashes
   - phising 
   - fraud
   - scam 
