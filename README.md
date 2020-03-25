@@ -1,6 +1,9 @@
 # COVID-IOCs
 A collaborative proposal to preemptively analyze &amp; filter technical menaces related to COVID-19.
 
+### What is the current situation?
+
+
 ## You can collaborate!
 Collaborate with us by providing already analized IOCs like:
 
